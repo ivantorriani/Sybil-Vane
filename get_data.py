@@ -2,13 +2,14 @@ from newsapi import NewsApiClient as nac
 from halo import Halo as hlo
 import easygui as ez
 import datetime 
+
 import json
 
 
 # Important starters - - - - - - - - - - - - - -
 
 
-key = 'GET'
+key = 'sg'
 
 client = nac(api_key = key)
 
@@ -33,21 +34,23 @@ headline_spinner = hlo(text = "Gathering headlines...", spinner = 'line')
 
 # Getting URLS and Sources - - - - - - - - - - - - - - I will stop lying. I'm sorry.
 
-def get_dataset():
+def get_dataset(que, date):
     current_date = datetime.date.today()
-    earlier_date = current_date - datetime.timedelta(days=5)
+    earlier_date = date
+    query = que
     #topic = ez.enterbox("Enter keywords here please!")
     data = client.get_everything(
-        q = "Kamala Harris OR Harris OR Biden",
+        q = que,
         from_param = (earlier_date),
         to = (current_date),
-        page_size = 3,
-        sort_by = "relevancy"
+        page_size = 5,
+        sort_by="relevancy"
+        
     )
     
     return data
 
-data = get_dataset()
+data = get_dataset("Capitol Riot", datetime.date(2024, 8, 1))
 
 
 
