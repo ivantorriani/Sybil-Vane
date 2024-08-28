@@ -8,23 +8,26 @@ import json
 # Important starters - - - - - - - - - - - - - -
 
 
-key = 'woo-hoo!'
+key = 'GET'
 
 client = nac(api_key = key)
 
 i = 0
 j = 0
 v = 0
+r = 0
 
 url_holder = []
 
 outlet_holder = []
 
-list_of_data = []
+headline_holder = []
 
 url_spinner = hlo(text='Gathering URLS...', spinner='bouncingBar')
 
 outlet_spinner = hlo(text = 'Gathering outlets...', spinner = 'bouncingBar')
+
+headline_spinner = hlo(text = "Gathering headlines...", spinner = 'line')
 
 
 
@@ -35,14 +38,19 @@ def get_dataset():
     earlier_date = current_date - datetime.timedelta(days=5)
     #topic = ez.enterbox("Enter keywords here please!")
     data = client.get_everything(
-        q = "Harris",
+        q = "Kamala Harris OR Harris OR Biden",
         from_param = (earlier_date),
-        to = (current_date)
+        to = (current_date),
+        page_size = 3,
+        sort_by = "relevancy"
     )
     
     return data
 
 data = get_dataset()
+
+
+
 
 def get_urls():
     global i 
@@ -67,11 +75,24 @@ def get_outlets():
     outlet_spinner.succeed('Outlets gathered successfully')
     return outlet_holder
 
+def get_headlines():
+    global r
+    while(r < len(data['articles'])):
+        headline_spinner.start() 
+        article_headline = data['articles'][r]['title']
+        headline_holder.append(str(article_headline))
+        r += 1
+    headline_spinner.succeed("Headlines gathered successsfully")
+    return headline_holder
+
+
+
+
 url_list = get_urls()
 
 outlet_list = get_outlets()
 
-
+headline_list = get_headlines()
 
 
 # Organizing Data - - - - - - - - - - - - - -- - - - - - - - - - - - - -
@@ -102,7 +123,8 @@ def update_ledger():
         data = {
             key : {
                 "source": outlet_list[v],
-                "url": url_list[v]
+                "url": url_list[v],
+                "headline": headline_list[v]
             }
 
         }
