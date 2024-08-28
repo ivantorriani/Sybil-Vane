@@ -9,7 +9,7 @@ import json
 # Important starters - - - - - - - - - - - - - -
 
 
-key = 'sg'
+key = '237c1b33036a4b739240e1e7b17da22a'
 
 client = nac(api_key = key)
 
@@ -32,7 +32,7 @@ headline_spinner = hlo(text = "Gathering headlines...", spinner = 'line')
 
 
 
-# Getting URLS and Sources - - - - - - - - - - - - - - I will stop lying. I'm sorry.
+# Getting URLS and Sources - - - - - - - - - - - - - - 
 
 def get_dataset(que, date):
     current_date = datetime.date.today()
