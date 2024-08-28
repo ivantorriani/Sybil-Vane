@@ -2,22 +2,25 @@ from newsapi import NewsApiClient as nac
 from halo import Halo as hlo
 import easygui as ez
 import datetime 
+import json
+
 
 # Important starters - - - - - - - - - - - - - -
 
 
-key = 'undisclsed'
+key = 'woo-hoo!'
 
 client = nac(api_key = key)
 
 i = 0
-
 j = 0
-
+v = 0
 
 url_holder = []
 
 outlet_holder = []
+
+list_of_data = []
 
 url_spinner = hlo(text='Gathering URLS...', spinner='bouncingBar')
 
@@ -64,12 +67,82 @@ def get_outlets():
     outlet_spinner.succeed('Outlets gathered successfully')
     return outlet_holder
 
+url_list = get_urls()
 
-outlets = get_outlets()
+outlet_list = get_outlets()
 
-print(outlets)
 
-# - - - - - - - - - - - - - -- - - - - - - - - - - - - -
+
+
+# Organizing Data - - - - - - - - - - - - - -- - - - - - - - - - - - - -
+
+try:
+    with open('organized_info.json', 'r') as jsonFile:
+        organized_info = json.load(jsonFile)
+except FileNotFoundError:
+    organized_info = {}
+
+
+def update_ledger():
+    global v
+    updt_datekey = {
+
+        str(datetime.date.today()): {}
+    }
+
+    organized_info.update(updt_datekey) #Set up the date key for the day
+
+    with open('organized_info.json', 'w') as file: #Dump the date key so that its on the json file
+        json.dump(organized_info, file, indent = 2)
+
+
+    while (v < len(get_urls())):
+        key = str("article") + str(v)
+
+        data = {
+            key : {
+                "source": outlet_list[v],
+                "url": url_list[v]
+            }
+
+        }
+
+        organized_info[str(datetime.date.today())].update(data)
+
+        with open('organized_info.json', 'w') as file:
+            json.dump(organized_info, file, indent = 4)
+        
+        v += 1
+
+
+update_ledger()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
