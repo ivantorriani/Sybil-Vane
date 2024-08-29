@@ -3,13 +3,9 @@ from get_data import get_urls, get_headlines
 import json 
 import datetime 
 from halo import Halo as hlo
-# Documentation - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-#article = art('https://www.nbcnews.com/politics/supreme-court/supreme-court-refuses-revive-bidens-latest-student-loan-debt-relief-pl-rcna167455')
-#article.download()
-#rticle.parse()
+# Necessary initializations - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-#print(article.text)
 
 i = 0
 
@@ -69,6 +65,7 @@ def get_text_data():
 
 texts = get_text_data()
 
+# Updating ledger - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 def update_textledger():
 

@@ -9,7 +9,7 @@ import json
 # Important starters - - - - - - - - - - - - - -
 
 
-key = 'asd'
+key = 'cheese'
 
 client = nac(api_key = key)
 
