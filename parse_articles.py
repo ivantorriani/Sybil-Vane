@@ -1,4 +1,4 @@
-from newspaper import Article as art
+from newspaper import Article as art, ArticleException as ae
 from get_data import get_urls, get_headlines
 import json 
 import datetime 
@@ -46,18 +46,29 @@ def get_text_data():
     while (i < int(param)):
         l_t_spinner.start()
 
+        
+
         article_key = "article" + str(i)
         url = organized_info[str(today_date)][str(article_key)]['url']
         article = art(str(url))
 
         article.download()
-        article.parse()
+        try:
+            article.parse()
 
-        article_body = article.text
+            article_body = article.text
 
-        article_data.append(article_body)
+            article_data.append(article_body)
 
-        i += 1
+            i += 1
+            
+        except ae:
+
+            article_body = "Omit data"
+
+            article_data.append(article_body)
+
+            i += 1
     
     l_t_spinner.succeed('Text data gathered successfuly')
 

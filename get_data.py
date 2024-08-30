@@ -9,7 +9,7 @@ import json
 # Important starters - - - - - - - - - - - - - -
 
 
-key = 'cheese'
+key = 'k'
 
 client = nac(api_key = key)
 
@@ -34,23 +34,23 @@ headline_spinner = hlo(text = "Gathering headlines...", spinner = 'line')
 
 # Getting URLS and Sources - - - - - - - - - - - - - - 
 
-def get_dataset(que, date):
+def get_dataset(que):
     current_date = datetime.date.today()
-    earlier_date = date
+    earlier_date = datetime.date.today() - datetime.timedelta(1)
     query = que
     #topic = ez.enterbox("Enter keywords here please!")
     data = client.get_everything(
         q = que,
         from_param = (earlier_date),
         to = (current_date),
-        page_size = 5,
+        page_size = 50,
         sort_by="relevancy"
         
     )
     
     return data
 
-data = get_dataset("Capitol Riot", datetime.date(2024, 8, 1))
+data = get_dataset("Harris")
 
 
 

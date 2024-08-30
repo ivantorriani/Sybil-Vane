@@ -3,6 +3,8 @@ import json
 import datetime
 from textblob import TextBlob
 from halo import Halo as hlo
+
+
 # Necessary Initializations - - - - - - - - - - - - - - -
 
 with open('organized_info.json', 'r') as jsonFile:
@@ -20,6 +22,12 @@ polarity_holder = []
 subjectivity_holder = []
 
 sentiment_spinner = hlo(text='Calculating sentiment scores...', spinner='lines')
+
+organizer_spinner = hlo(text='Organizing Sentiment Scores...', spinner='lines')
+
+
+with open('organized_info.json', 'r') as jsonFile:
+    organized_info = json.load(jsonFile)
 
 # get sentiment scores- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -48,15 +56,46 @@ def analyze_sentiment():
 
     return polarity_holder, subjectivity_holder
 
-test1 = analyze_sentiment()[0]
+polarity_data = analyze_sentiment()[0]
+subjectivity_data = analyze_sentiment()[1]
 
-test2 = analyze_sentiment()[1]
 
-print(test1)
 
-print(test2)
+def organize_sentiment():
+    global j
+    while (j < len(text_data[str(datetime.date.today())])):
 
-    
+        organizer_spinner.start()
+
+        key = "article" + str(j)
+
+        polarity_score = polarity_data[j]
+
+        subjectivity_score = subjectivity_data[j]
+
+        data = {
+
+            "polarity": float(polarity_score),
+            "subjectivity": float(subjectivity_score)
+        }
+
+        #organized_info[str(datetime.date.today())].update(data)
+
+        organized_info[str(datetime.date.today())][str(key)].update(data)
+
+        with open('organized_info.json', 'w') as file:
+            json.dump(organized_info, file, indent = 4)
+
+        j += 1
+
+    organizer_spinner.succeed('Scores successfuly organized')
+
+        
+organize_sentiment()
+
+
+
+
 
 
 
