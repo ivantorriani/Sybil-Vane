@@ -9,7 +9,7 @@ import json
 # Important starters - - - - - - - - - - - - - -
 
 
-key = 'k'
+key = 'r'
 
 client = nac(api_key = key)
 

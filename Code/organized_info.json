@@ -3,352 +3,252 @@
         "article0": {
             "source": "Gizmodo.com",
             "url": "https://gizmodo.com/walzs-campaign-trail-includes-stories-of-helping-with-lice-on-facetime-talking-about-the-perils-of-gutters-2000492302",
-            "headline": "Walz\u2019s Campaign Trail Includes Stories of Helping With Lice on Facetime, Talking About the Perils of Gutters",
-            "polarity": 0.14905779912629227,
-            "subjectivity": 0.5031327956670422
+            "headline": "Walz\u2019s Campaign Trail Includes Stories of Helping With Lice on Facetime, Talking About the Perils of Gutters"
         },
         "article1": {
             "source": "NPR",
             "url": "https://www.npr.org/2024/08/28/nx-s1-5093203/harris-walz-interview-cnn",
-            "headline": "Harris' first sit-down interview as nominee airs Thursday with pressure building",
-            "polarity": 0.10186622320768662,
-            "subjectivity": 0.45490638088199065
+            "headline": "Harris' first sit-down interview as nominee airs Thursday with pressure building"
         },
         "article2": {
             "source": "Business Insider",
             "url": "https://www.businessinsider.com/harris-down-payment-assistance-plan-25000-housing-crisis-affordability-zillow-2024-8",
-            "headline": "Kamala Harris' $25,000 down payment assistance plan is a band-aid fix for the housing crisis, Zillow's chief economist says. 3 policies that will actually help home affordability.",
-            "polarity": 0.1970403439153439,
-            "subjectivity": 0.4537037037037037
+            "headline": "Kamala Harris' $25,000 down payment assistance plan is a band-aid fix for the housing crisis, Zillow's chief economist says. 3 policies that will actually help home affordability."
         },
         "article3": {
             "source": "Business Insider",
             "url": "https://www.businessinsider.com/yimbys-harris-housing-policy-walz-lower-home-prices-affordability-2024-8",
-            "headline": "YIMBYs are having a moment",
-            "polarity": 0.12751178451178455,
-            "subjectivity": 0.35228619528619526
+            "headline": "YIMBYs are having a moment"
         },
         "article4": {
             "source": "NPR",
             "url": "https://www.npr.org/2024/08/29/g-s1-20023/up-first-newsletter-donald-trump-arlington-cemetery-video-kamala-harris-cnn-interview",
-            "headline": "Trump's Arlington Cemetery video may be illegal. And, Harris' 1st sit down interview",
-            "polarity": 0.059059591202448344,
-            "subjectivity": 0.44121235906950185
+            "headline": "Trump's Arlington Cemetery video may be illegal. And, Harris' 1st sit down interview"
         },
         "article5": {
             "source": "CNET",
             "url": "https://www.cnet.com/health/sleep/whats-your-sleep-language-here-are-the-5-different-types-and-how-to-speak-yours/",
-            "headline": "What's Your 'Sleep Language'? Here Are the 5 Different Types and How to Speak Yours",
-            "polarity": 0.16449143211963732,
-            "subjectivity": 0.5262763115327224
+            "headline": "What's Your 'Sleep Language'? Here Are the 5 Different Types and How to Speak Yours"
         },
         "article6": {
             "source": "Time",
             "url": "https://time.com/7015618/kamala-harris-biden-housing/",
-            "headline": "How Beau Biden Set the Stage For Kamala Harris\u2019 Stunning Political Rise",
-            "polarity": 0.19714285714285715,
-            "subjectivity": 0.4246362433862433
+            "headline": "How Beau Biden Set the Stage For Kamala Harris\u2019 Stunning Political Rise"
         },
         "article7": {
             "source": "NPR",
             "url": "https://www.npr.org/2024/08/29/g-s1-19993/gallego-police-endorsement-aclu-doj-phoenix-police-department",
-            "headline": "After major police endorsement, Rep. Gallego faces backlash from progressive groups",
-            "polarity": 0.05433673469387757,
-            "subjectivity": 0.37006802721088444
+            "headline": "After major police endorsement, Rep. Gallego faces backlash from progressive groups"
         },
         "article8": {
             "source": "The New Yorker",
             "url": "https://www.newyorker.com/news/the-lede/kamala-harriss-gamble",
-            "headline": "Kamala Harris\u2019s Gamble",
-            "polarity": 0.0969572224245121,
-            "subjectivity": 0.4628566397257986
+            "headline": "Kamala Harris\u2019s Gamble"
         },
         "article9": {
             "source": "Gizmodo.com",
             "url": "https://gizmodo.com/u-s-army-confirms-trump-staffer-pushed-arlington-staffer-before-filming-tiktok-ad-2000492660",
-            "headline": "U.S. Army Confirms Trump Staffer \u2018Pushed\u2019 Arlington Staffer Before Filming TikTok Ad",
-            "polarity": -0.005689159032182287,
-            "subjectivity": 0.41708111010436577
+            "headline": "U.S. Army Confirms Trump Staffer \u2018Pushed\u2019 Arlington Staffer Before Filming TikTok Ad"
         },
         "article10": {
             "source": "Business Insider",
             "url": "https://www.businessinsider.com/jd-vance-peter-thiel-donald-trump-get-off-sidelines-2024-8",
-            "headline": "JD Vance urges Peter Thiel to back Trump: 'Get off the sidelines'",
-            "polarity": 0.11432291666666669,
-            "subjectivity": 0.2989583333333333
+            "headline": "JD Vance urges Peter Thiel to back Trump: 'Get off the sidelines'"
         },
         "article11": {
             "source": "Faz.net",
             "url": "https://www.faz.net/aktuell/politik/us-wahl/liveticker-us-wahl-2024-trump-provoziert-mit-vulgaerem-kommentar-zu-harris-19444916.html",
-            "headline": "Liveblog zur US-Wahl 2024: Trump provoziert mit vulg\u00e4rem Kommentar zu Harris",
-            "polarity": 0.13636363636363635,
-            "subjectivity": 0.45454545454545453
+            "headline": "Liveblog zur US-Wahl 2024: Trump provoziert mit vulg\u00e4rem Kommentar zu Harris"
         },
         "article12": {
             "source": "Faz.net",
             "url": "https://www.faz.net/aktuell/politik/us-wahl/liveticker-us-wahl-2024-anzeige-nach-gerangel-mit-trump-team-auf-soldatenfriedhof-19444916.html",
-            "headline": "Liveblog zur US-Wahl 2024: Anzeige nach Gerangel mit Trump-Team auf Soldatenfriedhof",
-            "polarity": 0.13636363636363635,
-            "subjectivity": 0.45454545454545453
+            "headline": "Liveblog zur US-Wahl 2024: Anzeige nach Gerangel mit Trump-Team auf Soldatenfriedhof"
         },
         "article13": {
             "source": "tagesschau.de",
             "url": "https://www.tagesschau.de/ausland/uswahl/trump-harris-wahlkampf-kommentar-100.html",
-            "headline": "Wahlkampf gegen Harris: Trump zielt unter die G\u00fcrtellinie",
-            "polarity": 0.03333333333333333,
-            "subjectivity": 0.06666666666666667
+            "headline": "Wahlkampf gegen Harris: Trump zielt unter die G\u00fcrtellinie"
         },
         "article14": {
             "source": "Rolling Stone",
             "url": "http://www.rollingstone.com/product-recommendations/lifestyle/how-to-watch-kamala-harris-tim-walz-cnn-interview-online-1235090889/",
-            "headline": "How to Watch the Kamala Harris-Tim Walz CNN Interview Online Without Cable",
-            "polarity": 0.17418609168609173,
-            "subjectivity": 0.4426728826728827
+            "headline": "How to Watch the Kamala Harris-Tim Walz CNN Interview Online Without Cable"
         },
         "article15": {
             "source": "Al Jazeera English",
             "url": "https://www.aljazeera.com/news/2024/8/29/before-key-interview-five-questions-kamala-harris-hasnt-answered-yet",
-            "headline": "Ahead of key interview, five questions Kamala Harris hasn\u2019t answered yet",
-            "polarity": 0.08419187624544769,
-            "subjectivity": 0.41495112691541264
+            "headline": "Ahead of key interview, five questions Kamala Harris hasn\u2019t answered yet"
         },
         "article16": {
             "source": "TMZ",
             "url": "https://www.tmz.com/2024/08/29/kamala-harris-tim-walz-motorcade-cop-crash/",
-            "headline": "Kamala Harris and Tim Walz's Campaign Briefly Stopped by Serious Accident",
-            "polarity": -0.03214285714285715,
-            "subjectivity": 0.24404761904761907
+            "headline": "Kamala Harris and Tim Walz's Campaign Briefly Stopped by Serious Accident"
         },
         "article17": {
             "source": "Quartz India",
             "url": "https://qz.com/donald-trump-kamala-harris-economy-inflation-tax-tariff-1851634578",
-            "headline": "Donald Trump's policies would make inflation surge, Nobel Prize-winning economist says",
-            "polarity": 0.1819860411697146,
-            "subjectivity": 0.4103211414435904
+            "headline": "Donald Trump's policies would make inflation surge, Nobel Prize-winning economist says"
         },
         "article18": {
             "source": "Forbes",
             "url": "https://www.forbes.com/sites/saradorn/2024/08/29/trump-vs-harris-2024-polls-harris-leading-likely-voters-by-2-points-in-latest-survey/",
-            "headline": "Trump Vs. Harris 2024 Polls: Harris Leading Likely Voters By 2 Points In Latest Survey",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Trump Vs. Harris 2024 Polls: Harris Leading Likely Voters By 2 Points In Latest Survey"
         },
         "article19": {
             "source": "Forbes",
             "url": "https://www.forbes.com/sites/saradorn/2024/08/29/trump-vs-harris-2024-polls-harris-lead-grows-in-latest-surveys/",
-            "headline": "Trump Vs. Harris 2024 Polls: Harris\u2019 Lead Grows\u2014Winning By 5 Points In One Survey",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Trump Vs. Harris 2024 Polls: Harris\u2019 Lead Grows\u2014Winning By 5 Points In One Survey"
         },
         "article20": {
             "source": "Them.us",
             "url": "https://www.them.us/story/jd-vance-lesbian-union-boss-childless-comments-randi-weingarten",
-            "headline": "\u201cShe Doesn\u2019t Have a Single Child\u201d: J.D. Vance Made the Mistake of Going After a Lesbian Labor Leader",
-            "polarity": 0.021159887566137556,
-            "subjectivity": 0.3405960648148148
+            "headline": "\u201cShe Doesn\u2019t Have a Single Child\u201d: J.D. Vance Made the Mistake of Going After a Lesbian Labor Leader"
         },
         "article21": {
             "source": "The New York Review of Books",
             "url": "https://www.nybooks.com/articles/2024/09/19/kamalas-moment-fintan-otoole/",
-            "headline": "Kamala\u2019s Moment",
-            "polarity": 0.07017648134127948,
-            "subjectivity": 0.4301799173671375
+            "headline": "Kamala\u2019s Moment"
         },
         "article22": {
             "source": "The New Republic",
             "url": "https://newrepublic.com/post/185448/donald-trump-spokeswoman-kamala-harris-post",
-            "headline": "Trump Spokeswoman Flounders When Asked About His Vile Harris Post",
-            "polarity": 0.022222222222222223,
-            "subjectivity": 0.06666666666666667
+            "headline": "Trump Spokeswoman Flounders When Asked About His Vile Harris Post"
         },
         "article23": {
             "source": "The New Republic",
             "url": "https://newrepublic.com/article/185319/bill-kristol-interview-republicans-support-harris",
-            "headline": "\u201cThere Are Several Efforts\u201d: Bill Kristol on Republicans for Harris",
-            "polarity": 0.05740740740740741,
-            "subjectivity": 0.23148148148148148
+            "headline": "\u201cThere Are Several Efforts\u201d: Bill Kristol on Republicans for Harris"
         },
         "article24": {
             "source": "Nakedcapitalism.com",
             "url": "https://www.nakedcapitalism.com/2024/08/rob-urie-kamala-harris-is-the-new-face-being-put-on-americas-wars.html",
-            "headline": "Rob Urie: Kamala Harris is the New Face Being Put on America\u2019s Wars",
-            "polarity": 0.0657228942719406,
-            "subjectivity": 0.3752426116118212
+            "headline": "Rob Urie: Kamala Harris is the New Face Being Put on America\u2019s Wars"
         },
         "article25": {
             "source": "Business Insider",
             "url": "https://www.businessinsider.com/who-is-kick-kennedy-robert-f-kennedy-jr-eldest-daughter-2024-8",
-            "headline": "Meet Kick Kennedy, Robert F. Kennedy Jr.'s daughter who has been linked to newly single Ben Affleck",
-            "polarity": 0.1928571428571429,
-            "subjectivity": 0.4064285714285714
+            "headline": "Meet Kick Kennedy, Robert F. Kennedy Jr.'s daughter who has been linked to newly single Ben Affleck"
         },
         "article26": {
             "source": "DIE WELT",
             "url": "https://www.welt.de/politik/ausland/us-wahl/video253246768/Erstes-TV-Interview-fuer-Harris-Bohrende-Fragen-von-Journalisten-hat-sie-bisher-vermieden.html",
-            "headline": "\u201eBohrende Fragen von Journalisten hat sie bisher vermieden\u201c",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "\u201eBohrende Fragen von Journalisten hat sie bisher vermieden\u201c"
         },
         "article27": {
             "source": "First Showing",
             "url": "https://www.firstshowing.net/2024/official-trailer-for-paris-has-fallen-action-series-with-tewfik-jallab/",
-            "headline": "Official Trailer for 'Paris Has Fallen' Action Series with Tewfik Jallab",
-            "polarity": -0.06110013175230567,
-            "subjectivity": 0.4125164690382081
+            "headline": "Official Trailer for 'Paris Has Fallen' Action Series with Tewfik Jallab"
         },
         "article28": {
             "source": "Le HuffPost",
             "url": "https://www.huffingtonpost.fr/international/article/kamala-harris-avec-sa-premiere-interview-de-candidate-a-la-presidentielle-americaine-sur-cnn-est-attendue-au-tournant_238931.html",
-            "headline": "Kamala Harris, avec sa premi\u00e8re interview de candidate \u00e0 la pr\u00e9sidentielle am\u00e9ricaine sur CNN, est attendue au tournant",
-            "polarity": 0.1875,
-            "subjectivity": 0.6875
+            "headline": "Kamala Harris, avec sa premi\u00e8re interview de candidate \u00e0 la pr\u00e9sidentielle am\u00e9ricaine sur CNN, est attendue au tournant"
         },
         "article29": {
             "source": "Forbes",
             "url": "https://www.forbes.com/sites/saradorn/2024/08/29/election-2024-swing-state-polls-harris-erases-trumps-lead-in-georgia-and-nevada/",
-            "headline": "Election 2024 Swing State Polls: Harris Erases Trump\u2019s Lead In Georgia And Nevada",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Election 2024 Swing State Polls: Harris Erases Trump\u2019s Lead In Georgia And Nevada"
         },
         "article30": {
             "source": "Forbes",
             "url": "https://www.forbes.com/sites/monicamercuri/2024/08/29/what-time-does-the-kamala-harris-tim-walz-interview-air-on-cnn/",
-            "headline": "What Time Does The Kamala Harris-Tim Walz Interview Air Tonight On CNN?",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "What Time Does The Kamala Harris-Tim Walz Interview Air Tonight On CNN?"
         },
         "article31": {
             "source": "Forbes",
             "url": "https://www.forbes.com/sites/steveforbes/2024/08/29/ominous-times-ahead-for-ukraine-and-israel-should-kamala-harris-win/",
-            "headline": "Ominous Times Ahead For Ukraine And Israel Should Kamala Harris Win",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Ominous Times Ahead For Ukraine And Israel Should Kamala Harris Win"
         },
         "article32": {
             "source": "Forbes",
             "url": "https://www.forbes.com/sites/robertwood/2024/08/29/kamala-harris-plan-to-tax-unrealized-capital-gain-is-scary-heres-why/",
-            "headline": "Kamala Harris Plan To Tax Unrealized Capital Gain Is Scary, Here\u2019s Why",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Kamala Harris Plan To Tax Unrealized Capital Gain Is Scary, Here\u2019s Why"
         },
         "article33": {
             "source": "DIE WELT",
             "url": "https://www.welt.de/podcasts/inside-usa/article253238762/Mit-diesen-Wahlkampf-Strategien-wollen-Donald-Trump-und-Kamala-Harris-punkten-Podcast-zur-US-Wahl.html",
-            "headline": "Alles auf Angriff? Mit diesen Strategien wollen Trump und Harris gewinnen",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Alles auf Angriff? Mit diesen Strategien wollen Trump und Harris gewinnen"
         },
         "article34": {
             "source": "The Atlantic",
             "url": "https://www.theatlantic.com/podcasts/archive/2024/08/how-to-mock-trump-and-win/679645/",
-            "headline": "Laughing at Trump",
-            "polarity": 0.07236780261564742,
-            "subjectivity": 0.5171241577707094
+            "headline": "Laughing at Trump"
         },
         "article35": {
             "source": "MIT Technology Review",
             "url": "https://www.technologyreview.com/2024/08/29/1103289/kamala-harris-tech-workers/",
-            "headline": "Kamala Harris should stand with tech workers, not their bosses",
-            "polarity": 0.12560714285714286,
-            "subjectivity": 0.4329940476190476
+            "headline": "Kamala Harris should stand with tech workers, not their bosses"
         },
         "article36": {
             "source": "DIE WELT",
             "url": "https://www.welt.de/politik/ausland/us-wahl/article252954550/US-Wahl-im-Ticker-Meine-Identitaet-wurde-gestohlen-Pro-Trump-Account-nutzt-Foto-von-Deutscher.html",
-            "headline": "\u201eMeine Identit\u00e4t wurde gestohlen\u201c \u2013 Pro-Trump-Account nutzt Foto von Deutscher",
-            "polarity": -0.1148148148148148,
-            "subjectivity": 0.33425925925925926
+            "headline": "\u201eMeine Identit\u00e4t wurde gestohlen\u201c \u2013 Pro-Trump-Account nutzt Foto von Deutscher"
         },
         "article37": {
             "source": "Biztoc.com",
             "url": "https://biztoc.com/x/1e8d79d2f5914d00",
-            "headline": "Xi Pushes for Predictability With U.S. in Face of Volatile Presidential Race",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Xi Pushes for Predictability With U.S. in Face of Volatile Presidential Race"
         },
         "article38": {
             "source": "Time",
             "url": "https://time.com/7015638/tim-walz-jd-vance-military-records-max-cleland-history/",
-            "headline": "The History Behind Attacks on the Military Records of Politicians Like Tim Walz",
-            "polarity": 0.05852720324942546,
-            "subjectivity": 0.3878115814226927
+            "headline": "The History Behind Attacks on the Military Records of Politicians Like Tim Walz"
         },
         "article39": {
             "source": "CNN",
             "url": "https://cnnespanol.cnn.com/2024/08/29/kamala-harris-entrevista-cnn-analisis-trax/",
-            "headline": "AN\u00c1LISIS | La entrevista de Harris con CNN es el \u00faltimo y muy esperado giro en la desenfrenada carrera presidencial",
-            "polarity": -0.2333333333333333,
-            "subjectivity": 0.6666666666666666
+            "headline": "AN\u00c1LISIS | La entrevista de Harris con CNN es el \u00faltimo y muy esperado giro en la desenfrenada carrera presidencial"
         },
         "article40": {
             "source": "Forbes",
             "url": "https://www.forbes.com/sites/kylemullins/2024/08/29/heres-every-billionaire-whos-given-1-million-or-more-to-help-kamala-harris-get-elected/",
-            "headline": "Here\u2019s Every Billionaire Who\u2019s Given $1 Million Or More To Help Kamala Harris Get Elected",
-            "polarity": 0.0,
-            "subjectivity": 0.0
+            "headline": "Here\u2019s Every Billionaire Who\u2019s Given $1 Million Or More To Help Kamala Harris Get Elected"
         },
         "article41": {
             "source": "TheBlaze",
             "url": "https://www.theblaze.com/news/internet-helps-politico-with-its-amnesia-after-it-claims-vance-is-trying-to-tether-biden-to-harris",
-            "headline": "Internet helps Politico with its amnesia after it claims Vance is trying to 'tether' Biden to Harris",
-            "polarity": -0.0027442795299938098,
-            "subjectivity": 0.4517367553081839
+            "headline": "Internet helps Politico with its amnesia after it claims Vance is trying to 'tether' Biden to Harris"
         },
         "article42": {
             "source": "The New Republic",
             "url": "https://newrepublic.com/article/185396/democrats-convention-united-now-what",
-            "headline": "The Democrats Are United. Now What?",
-            "polarity": 0.13540564373897707,
-            "subjectivity": 0.3750176366843033
+            "headline": "The Democrats Are United. Now What?"
         },
         "article43": {
             "source": "The New Republic",
             "url": "https://newrepublic.com/article/185387/democrats-oprah-star-power-republicans-hulk-hogan",
-            "headline": "The Democrats Have A-List Star Power. The Republicans Have Hulk Hogan.",
-            "polarity": 0.0977585831359416,
-            "subjectivity": 0.3968737237605163
+            "headline": "The Democrats Have A-List Star Power. The Republicans Have Hulk Hogan."
         },
         "article44": {
             "source": "Faz.net",
             "url": "https://www.faz.net/aktuell/politik/ausland/china-und-usa-bemuehen-sich-umeinander-sullivan-bei-xi-19950179.html",
-            "headline": "Sullivan in China: Ein seltenes Treffen mit Xi Jinping",
-            "polarity": 0.02500000000000001,
-            "subjectivity": 0.5
+            "headline": "Sullivan in China: Ein seltenes Treffen mit Xi Jinping"
         },
         "article45": {
             "source": "Crooksandliars.com",
             "url": "https://crooksandliars.com/2024/08/newsflash-candidate-team-interviews-are",
-            "headline": "Newsflash: Candidate Team Interviews Are Actually A Thing",
-            "polarity": 0.10108024691358024,
-            "subjectivity": 0.4311728395061728
+            "headline": "Newsflash: Candidate Team Interviews Are Actually A Thing"
         },
         "article46": {
             "source": "Queerty.com",
             "url": "https://www.queerty.com/sarah-huckabee-sanders-attempt-to-mock-kamala-harris-backfires-20240829",
-            "headline": "Sarah Huckabee Sanders\u2019 attempt to mock Kamala Harris backfires",
-            "polarity": 0.09969548088595707,
-            "subjectivity": 0.4423153301724729
+            "headline": "Sarah Huckabee Sanders\u2019 attempt to mock Kamala Harris backfires"
         },
         "article47": {
             "source": "The New Republic",
             "url": "https://newrepublic.com/post/185436/trump-aide-david-urban-social-media-out-of-control",
-            "headline": "Trump Ally Admits Trump\u2019s Social Media Posts Are Out of Control",
-            "polarity": 0.11171874999999999,
-            "subjectivity": 0.4653645833333333
+            "headline": "Trump Ally Admits Trump\u2019s Social Media Posts Are Out of Control"
         },
         "article48": {
             "source": "BBC News",
             "url": "https://www.bbc.com/sport/football/articles/c0k415y2mrko",
-            "headline": "Nisbet at Aberdeen for 'complete reset'",
-            "polarity": -0.006349206349206359,
-            "subjectivity": 0.28809523809523807
+            "headline": "Nisbet at Aberdeen for 'complete reset'"
         },
         "article49": {
             "source": "Mental Floss",
             "url": "https://www.mentalfloss.com/posts/lake-michigan-shipwreck-buoys",
-            "headline": "It Just Got Easier to Dive to Shipwrecks in Lake Michigan",
-            "polarity": 0.19720959595959597,
-            "subjectivity": 0.4890435606060605
+            "headline": "It Just Got Easier to Dive to Shipwrecks in Lake Michigan"
         }
     }
 }

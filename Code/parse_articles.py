@@ -76,6 +76,10 @@ def get_text_data():
 
 texts = get_text_data()
 
+print(texts)
+
+
+
 # Updating ledger - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 def update_textledger():
