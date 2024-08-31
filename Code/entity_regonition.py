@@ -1,13 +1,38 @@
 import spacy
+import json 
+from openai import OpenAI as oa
 
-# Experimentation - - - - - - - - - - - - - - - - - - - - 
-nlp = spacy.load('en_core_web_md')
+# Boilerplate - - - - - - - - - - - - - - - - - - - - 
 
-test1 = nlp("Democratic")
-test2 = nlp("Republican")
+oa_key = 'xxx'
 
-similiar = test1.similarity(test2)
+oa_client = oa(api_key = oa_key)
 
-print(similiar)
+with open('keywords.json', 'r') as jsonFile:
+    keywords = json.load(jsonFile)
+
+i = 0
+
+j = 0
+
+v  = 0
+
+# - - - - - - - - - - - - - - - - - - - - 
+
+def ai_parsing(direc, aidesc):
+    directory = direc
+    
+    completion = oa.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": aidesc},
+            {"role": "user", "content": directory,}
+        ]
+    )
+
+
+    data = completion.choices[0].message.content
+    return data
+
 
 

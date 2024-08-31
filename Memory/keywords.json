@@ -1,0 +1,54 @@
+{
+    "democrat_keywords":{
+
+        "high_score_figures": [
+
+            "Tim Walz", "Barack Obama", "Bernie Sanders", "Nancy Pelosi",
+            "Hilary Clinton", "Kamala Harris", "Joe Biden", "Alexandria Ocasio-Cortez"
+        ],
+
+        "high_score_policies": [
+
+            "Climate Change", "Expanded Social Security", "Support Women's Choice in Abortion", 
+            "LGBTQ Rights"
+
+        ],
+
+        "high_score_variations" : [ 
+            "Liberals", "Left", "Far-Left", "Democratic", "Dems",
+            "Progressive", "Blue Party", "Donkeys"
+        ],
+
+        "training": {
+
+            "high_scoring": {
+
+                "examples": {
+                    "exa1": "Joe Biden, the current President, falls of his bike and sparks concerns about health ",
+                    "exa2": "The push to champion the healthcare reform has played a crucial role in passing the Affordable Care Act.", 
+                    "exa3": "The Democratic National Convention attracted a wide range of speakers, including celebrities and left-wingers, to promote the party's message."
+                },
+
+                "explanations": {
+                    "exp1": "This sentence scores high because it mentions Joe Biden, a figure closely aligned with the democratic party.",
+                    "exp2": "This sentence scores high because it mentions healthcare reform and affordable care act, two policies strongly aligned with the democratic party",
+                    "exp3": "This sentence scores high because it mentions the Democratic National Convention, and left wingers, which are two variations of the word democrats."
+
+                }
+            
+
+
+            }
+
+
+
+
+            }
+        }
+
+
+
+
+
+}
+
