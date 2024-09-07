@@ -250,5 +250,510 @@
             "url": "https://www.mentalfloss.com/posts/lake-michigan-shipwreck-buoys",
             "headline": "It Just Got Easier to Dive to Shipwrecks in Lake Michigan"
         }
+    },
+
+    "2024-09-06": {
+        "article0": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/mark-cuban-kamala-harris-sec-capital-gains-business-2024-9",
+            "headline": "Mark Cuban offers to serve in the Harris White House"
+        },
+        "article1": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/kamala-harris-will-win-2024-election-predicting-historian-2024-9",
+            "headline": "A historian who's correctly predicted 9 out of 10 elections says Kamala Harris will win in 2024"
+        },
+        "article2": {
+            "source": "Gizmodo.com",
+            "url": "https://gizmodo.com/donald-trump-says-elon-musk-will-lead-government-efficiency-task-force-2000495260",
+            "headline": "Donald Trump Says Elon Musk Will Lead \u2018Government Efficiency\u2019 Task Force"
+        },
+        "article3": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/kamala-harris-doug-emhoff-debate-2024-9",
+            "headline": "Doug Emhoff says he's never won a debate against Kamala Harris"
+        },
+        "article4": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/murdoch-cuban-corporate-executives-silicon-valley-wall-street-endorse-harris-2024-9",
+            "headline": "James Murdoch and 87 other corporate leaders sign a letter endorsing Kamala Harris"
+        },
+        "article5": {
+            "source": "Time",
+            "url": "https://time.com/7017998/liz-cheney-support-kamala-harris/",
+            "headline": "Liz Cheney Endorses Kamala Harris"
+        },
+        "article6": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/05/g-s1-20974/titanic-trump-republican-harris-france-memoir-tv-whale-news-quiz-maori",
+            "headline": "Which high-profile Republican says they are voting for Harris? Find out in the quiz"
+        },
+        "article7": {
+            "source": "Wired",
+            "url": "https://www.wired.com/story/deepfake-porn-election/",
+            "headline": "Could AI and Deepfakes Sway the US Election?"
+        },
+        "article8": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/jd-vance-doesnt-like-school-shootings-are-fact-of-life-2024-9",
+            "headline": "JD Vance says he doesn't like that school shootings are 'a fact of life'"
+        },
+        "article9": {
+            "source": "Time",
+            "url": "https://time.com/7018346/kamala-harris-joy-campaign-benefits-essay/",
+            "headline": "Don\u2019t Underestimate Kamala Harris\u2019 Good Vibes Only Campaign"
+        },
+        "article10": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/05/g-s1-21160/florida-senate-mucarsel-powell-whatsapp",
+            "headline": "Exclusive: Florida U.S. Senate challenger launches WhatsApp channel to reach voters"
+        },
+        "article11": {
+            "source": "Gizmodo.com",
+            "url": "https://gizmodo.com/hackers-threaten-to-release-stolen-data-from-planned-parenthood-of-montana-2000495211",
+            "headline": "Hackers Threaten to Release Stolen Data From Planned Parenthood of Montana"
+        },
+        "article12": {
+            "source": "ABC News",
+            "url": "https://abcnews.go.com/Politics/harris-trump-abc-news-presidential-debate-watch/story?id=113387977",
+            "headline": "Harris-Trump ABC News presidential debate: How to watch, what to know"
+        },
+        "article13": {
+            "source": "ABC News",
+            "url": "https://abcnews.go.com/Politics/former-republican-vice-president-dick-cheney-vote-harris/story?id=113467122",
+            "headline": "Former Republican Vice President Dick Cheney to vote for Harris, Liz Cheney says"
+        },
+        "article14": {
+            "source": "ABC News",
+            "url": "https://abcnews.go.com/Politics/trump-takes-shots-harris-personality-policies-friendly-pennsylvania/story?id=113398885",
+            "headline": "Trump takes shots at Harris' personality and policies at friendly town hall"
+        },
+        "article15": {
+            "source": "ABC News",
+            "url": "https://abcnews.go.com/Politics/talk-gonna-talk-trump-ahead-abc-news-debate/story?id=113398885",
+            "headline": "'I let him talk. I\u2019m gonna let her talk,' Trump says ahead of ABC News debate"
+        },
+        "article16": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/05/nx-s1-5101991/trump-campaign-arlington-national-cemetery-staff-debate",
+            "headline": "Conflicting messages from Trump and his campaign highlighted in Arlington incident"
+        },
+        "article17": {
+            "source": "Yahoo Entertainment",
+            "url": "https://www.yahoo.com/news/trump-plans-york-press-conference-150621393.html",
+            "headline": "Trump plans New York press conference after hearing appeal arguments in sexual abuse case"
+        },
+        "article18": {
+            "source": "Gizmodo.com",
+            "url": "https://gizmodo.com/right-wing-influencers-like-tim-pool-allegedly-paid-by-kremlin-influence-campaign-2000495148",
+            "headline": "Right-Wing Influencers Like Tim Pool Allegedly Paid by Kremlin Influence Campaign"
+        },
+        "article19": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/rfk-jr-get-off-north-carolina-ballot-appeal-2024-9",
+            "headline": "RFK Jr.'s fight to get off the ballot is causing chaos in North Carolina"
+        },
+        "article20": {
+            "source": "Faz.net",
+            "url": "https://www.faz.net/aktuell/politik/us-wahl/liveticker-us-wahl-2024-schweigegeldprozess-trump-strafe-soll-erst-nach-us-wahl-verkuendet-werden-faz-19444916.html",
+            "headline": "Liveblog zur US-Wahl 2024: Schweigegeldprozess: Trump-Strafe soll erst nach US-Wahl verk\u00fcndet werden"
+        },
+        "article21": {
+            "source": "ABC News",
+            "url": "https://abcnews.go.com/GMA/Food/kroger-ceo-vows-1b-price-cut-groceries-albertsons/story?id=113412717",
+            "headline": "Kroger CEO vows $1B price cut on groceries if Albertsons merger closes"
+        },
+        "article22": {
+            "source": "Yahoo Entertainment",
+            "url": "https://www.yahoo.com/news/harris-county-constable-deputy-shooting-013130608.html",
+            "headline": "Harris County Constable Deputy Shooting: Possible connection in deadly shooting revealed"
+        },
+        "article23": {
+            "source": "Le Monde",
+            "url": "https://www.lemonde.fr/international/article/2024/09/05/donald-trump-veut-charger-elon-musk-d-un-audit-du-gouvernement-americain-pour-le-reformer-en-profondeur-s-il-est-elu_6305070_3210.html",
+            "headline": "Donald Trump veut charger Elon Musk d\u2019un \u00ab\u00a0audit\u00a0\u00bb du gouvernement am\u00e9ricain pour le \u00ab\u00a0r\u00e9former\u00a0\u00bb en profondeur, s\u2019il est \u00e9lu"
+        },
+        "article24": {
+            "source": "kottke.org",
+            "url": "https://kottke.org/24/09/0045235-harris-and-walz-intention",
+            "headline": "\u201cHarris and Walz, intentionally or not, are projecting something different: a sitcom..."
+        },
+        "article25": {
+            "source": "Faz.net",
+            "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kamala-harris-kuerzt-steuerplaene-19965278.html",
+            "headline": "Das sind die Steuerpl\u00e4ne von Kamala Harris"
+        },
+        "article26": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/06/g-s1-21151/donald-trump-hush-money-sentencing-new-york",
+            "headline": "Trump gets criminal sentencing delayed till after presidential election"
+        },
+        "article27": {
+            "source": "Die Zeit",
+            "url": "https://www.zeit.de/news/2024-09/05/us-republikanerin-liz-cheney-will-demokratin-harris-waehlen",
+            "headline": "US-Wahlkampf: US-Republikanerin Liz Cheney will Demokratin Harris w\u00e4hlen"
+        },
+        "article28": {
+            "source": "kottke.org",
+            "url": "https://kottke.org/24/09/0045236-the-harris-campaign-poste",
+            "headline": "The Harris campaign posted a TikTok of Donald Trump talking about his..."
+        },
+        "article29": {
+            "source": "tagesschau.de",
+            "url": "https://www.tagesschau.de/ausland/duell-trump-harris-100.html",
+            "headline": "USA: Regeln f\u00fcr Duell zwischen Trump und Harris stehen fest"
+        },
+        "article30": {
+            "source": "Die Zeit",
+            "url": "https://www.zeit.de/news/2024-09/05/trump-und-harris-einigen-sich-auf-regeln-fuer-tv-duell",
+            "headline": "US-Wahlkampf: Trump und Harris einigen sich auf Regeln f\u00fcr TV-Duell"
+        },
+        "article31": {
+            "source": "Die Zeit",
+            "url": "https://www.zeit.de/news/2024-09/05/putin-unterstuetzt-angeblich-harris-im-us-wahlkampf",
+            "headline": "Pr\u00e4sidentenwahl in den USA: Putin unterst\u00fctzt angeblich Harris im US-Wahlkampf"
+        },
+        "article32": {
+            "source": "tagesschau.de",
+            "url": "https://www.tagesschau.de/ausland/amerika/us-wahl-republikaner-harris-100.html",
+            "headline": "US-Demokratin Harris bekommt Unterst\u00fctzung prominenter Republikaner"
+        },
+        "article33": {
+            "source": "Time",
+            "url": "https://time.com/7017993/factcheck-tim-walz-nebraska-relatives-for-trump-distant-cousins-brother/",
+            "headline": "Fact-Checking the Viral \u2018Walz\u2019s for Trump\u2019 Photo"
+        },
+        "article34": {
+            "source": "The-sun.com",
+            "url": "https://www.the-sun.com/news/12376069/harris-trump-allan-lichtman-election-prediction/",
+            "headline": "LICHTMAN PREDICTS HARRIS WIN"
+        },
+        "article35": {
+            "source": "Yahoo Entertainment",
+            "url": "https://www.yahoo.com/news/jd-vance-says-school-shootings-235441761.html",
+            "headline": "JD Vance says school shootings are a 'fact of life,' calls for better security"
+        },
+        "article36": {
+            "source": "Rolling Stone",
+            "url": "http://www.rollingstone.com/politics/politics-news/trump-child-care-rambling-white-house-1235096490/",
+            "headline": "\u2018What the Hell\u2019: What House Slams Trump\u2019s Incoherent Child Care Response"
+        },
+        "article37": {
+            "source": "Rolling Stone",
+            "url": "http://www.rollingstone.com/politics/politics-news/trump-weird-j-d-vance-fox-hannity-town-hall-1235095358/",
+            "headline": "Trump Tries to Convince America He\u2019s Not Weird and Totally Normal at Town Hall"
+        },
+        "article38": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/05/g-s1-20954/up-first-newsletter-apalachee-high-school-shooting-suspect-russian-media-scheme",
+            "headline": "Details on Georgia school shooting suspect. And, Russian media hired U.S. influencers"
+        },
+        "article39": {
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/program/inside-story/2024/9/6/how-will-the-us-economy-shape-its-presidential-election",
+            "headline": "How will the US economy shape its presidential election?"
+        },
+        "article40": {
+            "source": "Vox",
+            "url": "https://www.vox.com/2024-elections/370194/harris-foreign-policy-gaza-ukraine-china",
+            "headline": "The guessing game over Kamala Harris\u2019s foreign policy"
+        },
+        "article41": {
+            "source": "Rolling Stone",
+            "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/doug-emhoff-jimmy-kimmel-live-interview-1235096372/",
+            "headline": "Doug Emhoff Addresses Donald Trump\u2019s Attacks on Kamala Harris: \u2018It\u2019s a Distraction\u2019"
+        },
+        "article42": {
+            "source": "Roll Call",
+            "url": "https://rollcall.com/2024/09/05/how-nice-our-criminals-are-takeaways-as-trump-harris-begin-post-labor-day-sprint/",
+            "headline": "Trump, Harris begin post-Labor Day sprint..."
+        },
+        "article43": {
+            "source": "Quartz India",
+            "url": "https://qz.com/harris-campaign-capital-gains-corporate-tax-business-1851640741",
+            "headline": "Kamala Harris is pro-business, Mark Cuban says"
+        },
+        "article44": {
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/program/newsfeed/2024/9/5/putin-says-russia-will-support-harris-in-us-election",
+            "headline": "Putin says Russia will \u2018support\u2019 Harris in US election"
+        },
+        "article45": {
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2024/9/5/republican-liz-cheney-backs-harris-citing-danger-of-trump-win",
+            "headline": "Republican Liz Cheney backs Harris, citing \u2018danger\u2019 of Trump win"
+        },
+        "article46": {
+            "source": "AppleInsider",
+            "url": "https://appleinsider.com/articles/24/09/05/mythic-quest-star-rob-mcelhenney-brings-hope-for-season-4",
+            "headline": "'Mythic Quest' star Rob McElhenney brings hope for season 4"
+        },
+        "article47": {
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2024/9/6/russia-backs-kamala-harris-putins-history-of-us-election-endorsements",
+            "headline": "\u2018Russia backs Kamala Harris\u2019: Putin\u2019s history of US election \u2018endorsements\u2019"
+        },
+        "article48": {
+            "source": "Quartz India",
+            "url": "https://qz.com/kamala-harris-endorse-business-leaders-yelp-blackstone-1851641949",
+            "headline": "Kamala Harris just got the endorsement of 88 business leaders, ranging from Yelp's CEO to Magic Johnson"
+        },
+        "article49": {
+            "source": "Yahoo Entertainment",
+            "url": "https://uk.news.yahoo.com/four-people-killed-georgia-high-212725372.html",
+            "headline": "Georgia school shooter suspected of killing two teachers was interviewed by FBI"
+        }
+    },
+    "2024-09-07": {
+        "article0": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/kamala-harris-will-win-2024-election-predicting-historian-2024-9",
+            "headline": "A historian who's correctly predicted 9 out of 10 elections says Kamala Harris will win in 2024"
+        },
+        "article1": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/kamala-harris-doug-emhoff-debate-2024-9",
+            "headline": "Doug Emhoff says he's never won a debate against Kamala Harris"
+        },
+        "article2": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/murdoch-cuban-corporate-executives-silicon-valley-wall-street-endorse-harris-2024-9",
+            "headline": "James Murdoch and 87 other corporate leaders sign a letter endorsing Kamala Harris"
+        },
+        "article3": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/05/g-s1-20974/titanic-trump-republican-harris-france-memoir-tv-whale-news-quiz-maori",
+            "headline": "Which high-profile Republican says they are voting for Harris? Find out in the quiz"
+        },
+        "article4": {
+            "source": "Wired",
+            "url": "https://www.wired.com/story/deepfake-porn-election/",
+            "headline": "Could AI and Deepfakes Sway the US Election?"
+        },
+        "article5": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/jd-vance-doesnt-like-school-shootings-are-fact-of-life-2024-9",
+            "headline": "JD Vance says he doesn't like that school shootings are 'a fact of life'"
+        },
+        "article6": {
+            "source": "Time",
+            "url": "https://time.com/7018346/kamala-harris-joy-campaign-benefits-essay/",
+            "headline": "Don\u2019t Underestimate Kamala Harris\u2019 Good Vibes Only Campaign"
+        },
+        "article7": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/05/g-s1-21160/florida-senate-mucarsel-powell-whatsapp",
+            "headline": "Exclusive: Florida U.S. Senate challenger launches WhatsApp channel to reach voters"
+        },
+        "article8": {
+            "source": "Yahoo Entertainment",
+            "url": "https://www.yahoo.com/news/trump-plans-york-press-conference-150621393.html",
+            "headline": "Trump plans New York press conference after hearing appeal arguments in sexual abuse case"
+        },
+        "article9": {
+            "source": "Faz.net",
+            "url": "https://www.faz.net/aktuell/politik/us-wahl/liveticker-us-wahl-2024-schweigegeldprozess-trump-strafe-soll-erst-nach-us-wahl-verkuendet-werden-faz-19444916.html",
+            "headline": "Liveblog zur US-Wahl 2024: Schweigegeldprozess: Trump-Strafe soll erst nach US-Wahl verk\u00fcndet werden"
+        },
+        "article10": {
+            "source": "kottke.org",
+            "url": "https://kottke.org/24/09/0045236-the-harris-campaign-poste",
+            "headline": "The Harris campaign posted a TikTok of Donald Trump talking about his..."
+        },
+        "article11": {
+            "source": "Rolling Stone",
+            "url": "http://www.rollingstone.com/politics/politics-news/trump-child-care-rambling-white-house-1235096490/",
+            "headline": "\u2018What the Hell\u2019: What House Slams Trump\u2019s Incoherent Child Care Response"
+        },
+        "article12": {
+            "source": "Rolling Stone",
+            "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/doug-emhoff-jimmy-kimmel-live-interview-1235096372/",
+            "headline": "Doug Emhoff Addresses Donald Trump\u2019s Attacks on Kamala Harris: \u2018It\u2019s a Distraction\u2019"
+        },
+        "article13": {
+            "source": "Roll Call",
+            "url": "https://rollcall.com/2024/09/05/how-nice-our-criminals-are-takeaways-as-trump-harris-begin-post-labor-day-sprint/",
+            "headline": "Trump, Harris begin post-Labor Day sprint..."
+        },
+        "article14": {
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2024/9/6/russia-backs-kamala-harris-putins-history-of-us-election-endorsements",
+            "headline": "\u2018Russia backs Kamala Harris\u2019: Putin\u2019s history of US election \u2018endorsements\u2019"
+        },
+        "article15": {
+            "source": "Quartz India",
+            "url": "https://qz.com/kamala-harris-endorse-business-leaders-yelp-blackstone-1851641949",
+            "headline": "Kamala Harris just got the endorsement of 88 business leaders, ranging from Yelp's CEO to Magic Johnson"
+        },
+        "article16": {
+            "source": "Stereogum",
+            "url": "https://www.stereogum.com/2279134/hear-fred-agains-emmylou-harris-collab-from-new-album-ten-days/music/",
+            "headline": "Hear Fred Again\u2019s Emmylou Harris Collab From New Album Ten Days"
+        },
+        "article17": {
+            "source": "Business Insider",
+            "url": "https://www.businessinsider.com/google-search-antitrust-laws-courtcase-ad-prices-subscription-business-youtube-2024-9",
+            "headline": "Google could face a lawsuit seeking more than $100 billion in damages, but it's not all bad news for the tech giant"
+        },
+        "article18": {
+            "source": "Deadline",
+            "url": "http://deadline.com/2024/09/kamala-harris-ceo-open-letter-1236079892/",
+            "headline": "James Murdoch, Barry Diller, Peter Chernin And Michael Lynton Among Corporate Execs Endorsing Kamala Harris In New Open Letter"
+        },
+        "article19": {
+            "source": "Deadline",
+            "url": "http://deadline.com/2024/09/top-gear-chris-harris-joe-rogan-warned-bbc-accident-freddie-flintoff-1236080006/",
+            "headline": "\u2018Top Gear\u2019 Host Chris Harris Tells Joe Rogan: I Warned BBC \u201cSomeone Is Going To Die\u201d Before Freddie Flintoff Crash Forced Show Off Road"
+        },
+        "article20": {
+            "source": "The Hill",
+            "url": "https://thehill.com/homenews/campaign/4865482-trump-harris-florida-texas-poll/",
+            "headline": "New poll shows Florida, Texas within margin of error in race..."
+        },
+        "article21": {
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2024/9/6/israel-will-cease-to-exist-if-harris-becomes-president-trump-claims",
+            "headline": "Israel will cease to exist if Harris becomes president, Trump claims"
+        },
+        "article22": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/05/nx-s1-5093198/sherrod-brown-campaign-rural-ohio",
+            "headline": "Democrats hope Sen. Sherrod Brown can win in Ohio by losing less in rural counties"
+        },
+        "article23": {
+            "source": "NPR",
+            "url": "https://www.npr.org/2024/09/06/nx-s1-5101765/swing-states-demographics-electorate",
+            "headline": "How the electorate has changed in key states and what it could mean this election"
+        },
+        "article24": {
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/alisondurkee/2024/09/06/trump-vs-harris-fundraising-race-harris-reports-raising-nearly-3-times-as-much-as-trump-in-august/",
+            "headline": "Trump Vs. Harris Fundraising Race: Harris Reports Raising Nearly 3 Times As Much As Trump In August"
+        },
+        "article25": {
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/862cff6b9d58dc8c",
+            "headline": "Doug Emhoff says he's never won a debate against Kamala Harris"
+        },
+        "article26": {
+            "source": "Poynter",
+            "url": "https://www.poynter.org/fact-checking/2024/will-kamala-harris-shut-down-x-twitter-if-elected/",
+            "headline": "No, Kamala Harris did not say she will shut down X if elected"
+        },
+        "article27": {
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/rhettbuttle/2024/09/06/kamala-harris-focus-on-small-business-her-job-creation-plan/",
+            "headline": "Kamala Harris' Focus On Small Business: Her Job Creation Plan"
+        },
+        "article28": {
+            "source": "Deadline",
+            "url": "http://deadline.com/2024/09/doug-emhoff-jimmy-kimmel-live-kamala-harris-2-1236079754/",
+            "headline": "\u201cIt\u2019s A Distraction\u201d: During Jimmy Kimmel Interview, Doug Emhoff Dismisses Donald Trump\u2019s Attacks On Kamala Harris\u2019 Racial Identity"
+        },
+        "article29": {
+            "source": "Focus",
+            "url": "https://www.focus.de/politik/ausland/realitaet-unseres-lebens-jd-vance-erntet-fuer-aussage-zu-schulschiessereien-kritik_id_260289003.html",
+            "headline": "\u201eRealit\u00e4t unseres Lebens\u201c - JD Vance erntet Kritik f\u00fcr Aussage zu Amokl\u00e4ufen"
+        },
+        "article30": {
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/f44bf5141399328c",
+            "headline": "Harris Vs. Trump: Vice President Outpaces GOP Rival In August Fundraising As Presidential Race Heats Up"
+        },
+        "article31": {
+            "source": "Slate Magazine",
+            "url": "https://slate.com/news-and-politics/2024/09/kamala-harris-secret-weapon-economy-2024-presidential-election.html",
+            "headline": "Kamala Harris\u2019 Secret Weapon When It Comes to the Economy"
+        },
+        "article32": {
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/5217dd5f5327135e",
+            "headline": "Donald Trump's Chances of Beating Kamala Harris in Wisconsin: Recent Polls"
+        },
+        "article33": {
+            "source": "Cupofjo.com",
+            "url": "https://cupofjo.com/2024/09/06/have-a-beautiful-weekend-20/",
+            "headline": "Have a Beautiful Weekend."
+        },
+        "article34": {
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/86858190b5c3434e",
+            "headline": "Kamala Harris leads in four of seven swing states in the latest Times/SAY24 polling"
+        },
+        "article35": {
+            "source": "Yahoo Entertainment",
+            "url": "https://www.yahoo.com/news/navy-seal-killed-bin-laden-133953427.html",
+            "headline": "Navy SEAL who killed Bin Laden slaps hotel with lawsuit over incident that derailed career: 'Didn't happen'"
+        },
+        "article36": {
+            "source": "Die Zeit",
+            "url": "https://www.zeit.de/news/2024-09/06/trump-strafe-soll-erst-nach-us-wahl-verkuendet-werden",
+            "headline": "Schweigegeld-Prozess: Trump-Strafe soll erst nach US-Wahl verk\u00fcndet werden"
+        },
+        "article37": {
+            "source": "DIE WELT",
+            "url": "https://www.welt.de/politik/ausland/us-wahl/article252954550/US-Wahl-im-Ticker-Strafe-in-Trump-Schweigegeldprozess-wird-erst-nach-der-Wahl-verkuendet.html",
+            "headline": "Strafe in Trump-Schweigegeldprozess wird erst nach der Wahl verk\u00fcndet"
+        },
+        "article38": {
+            "source": "TMZ",
+            "url": "https://www.tmz.com/2024/09/06/taylor-swift-brittany-mahomes-suites-chiefs/",
+            "headline": "Taylor Swift and Brittany Mahomes Sit in Different Suites at K.C. Chiefs Game"
+        },
+        "article39": {
+            "source": "Project Syndicate",
+            "url": "https://www.project-syndicate.org/commentary/us-election-impact-on-european-security-economic-foreign-policy-by-mark-leonard-2024-09",
+            "headline": "The US Election Will Overturn Europe\u2019s Strategic Status Quo"
+        },
+        "article40": {
+            "source": "Americanthinker.com",
+            "url": "https://www.americanthinker.com/articles/2024/09/trump_harris_and_communism.html",
+            "headline": "Trump, Harris, and Communism"
+        },
+        "article41": {
+            "source": "Faz.net",
+            "url": "https://www.faz.net/aktuell/wirtschaft/us-wahl-2024-elon-musk-und-krypto-sollen-donald-trump-den-sieg-bringen-19968009.html",
+            "headline": "Steuern runter, Z\u00f6lle rauf und ein B\u00fcrokratie-Zar"
+        },
+        "article42": {
+            "source": "N-tv.de",
+            "url": "https://www.n-tv.de/politik/US-wahl-2024/Frauen-lassen-Trump-rechts-liegen-article25210679.html",
+            "headline": "Reicht ihm die \"Bro-Vote\"?: Frauen lassen Trump rechts liegen"
+        },
+        "article43": {
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/rohitarora/2024/09/06/tax-credits-are-good-but-more-is-needed-to-help-small-business/",
+            "headline": "Tax Credits Are Good, But More Is Needed To Help Small Business"
+        },
+        "article44": {
+            "source": "Ilfattoquotidiano.it",
+            "url": "https://www.ilfattoquotidiano.it/2024/09/06/putin-e-il-falso-endorsement-a-kamala-harris-irride-la-risata-della-candidata-dem-come-fa-trump-e-sogna-una-vittoria-del-repubblicano/7683557/",
+            "headline": "Putin e il falso endorsement a Kamala Harris: irride la risata della candidata dem (come fa Trump) e sogna una vittoria del repubblicano"
+        },
+        "article45": {
+            "source": "CoinDesk",
+            "url": "https://www.coindesk.com/policy/2024/09/06/ripple-co-founder-among-kamala-harris-new-corporate-endorsers/",
+            "headline": "Ripple Co-Founder Among Kamala Harris' New Corporate Endorsers"
+        },
+        "article46": {
+            "source": "Biztoc.com",
+            "url": "https://biztoc.com/x/36d7e7393e62853c",
+            "headline": "Kamala Harris Making Gains on Donald Trump in Texas, New Poll Shows"
+        },
+        "article47": {
+            "source": "Lib\u00e9ration",
+            "url": "https://www.liberation.fr/international/amerique/donald-trump-veut-charger-elon-musk-dun-audit-de-la-totalite-du-gouvernement-federal-20240906_JWQB2AMVKBHCDKGRBM5T74IJ4U/",
+            "headline": "Donald Trump veut charger Elon Musk d\u2019un \u00abaudit de la totalit\u00e9 du gouvernement f\u00e9d\u00e9ral\u00bb"
+        },
+        "article48": {
+            "source": "Forbes",
+            "url": "https://www.forbes.com/sites/saradorn/2024/09/06/jd-vance-accused-of-downplaying-school-shootings-as-fact-of-life-heres-what-he-really-said/",
+            "headline": "JD Vance Accused Of Downplaying School Shootings As \u2018Fact Of Life\u2019\u2014Here\u2019s What He Really Said"
+        },
+        "article49": {
+            "source": "Americanthinker.com",
+            "url": "https://www.americanthinker.com/articles/2024/09/the_moral_case_against_reparations.html",
+            "headline": "The Moral Case Against Reparations"
+        }
     }
 }
